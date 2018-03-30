@@ -18,6 +18,7 @@ input {
 }
 li {
   text-align: left;
+  width: 300px;
 }
 .strike {
   text-decoration: line-through;
