@@ -19,7 +19,11 @@ input {
 li {
   text-align: left;
   width: 300px;
+  border: 2px solid black;
 }
 .strike {
   text-decoration: line-through;
+}
+.priority {
+  background-color: yellow;
 }
